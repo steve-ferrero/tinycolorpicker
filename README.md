@@ -17,7 +17,7 @@ How to build your own tinycolorpicker
 First, clone a copy of the main tinycolorpicker git repo by running:
 
 ```bash
-git clone git://github.com/wieringen/tinycolorpicker.git
+git clone https://github.com/steve-ferrero/tinycolorpicker.git
 ```
 
 Install the grunt-cli package so that you will have the correct version of grunt available from any project that needs it. This should be done as a global install:
