@@ -1,5 +1,5 @@
 {
-  "name": "tinycolorpicker",
+  "name": "wa-tinycolorpicker",
   "version": "1.0.0",
   "description": "A lightweight cross browser jQuery based colorpicker.",
   "main": "lib/jquery.tinycolorpicker.js",
