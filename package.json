@@ -1,12 +1,11 @@
 {
   "name": "tinycolorpicker",
-  "version": "0.9.5",
+  "version": "1.0",
   "description": "A lightweight cross browser jQuery based colorpicker.",
-  "homepage": "http://www.baijs.com/tinycolorpicker",
   "main": "lib/jquery.tinycolorpicker.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wieringen/tinycolorpicker.git"
+    "url": "https://github.com/steve-ferrero/tinycolorpicker.git"
   },
   "keywords": [
     "UI",
@@ -16,8 +15,8 @@
     "javascript"
   ],
   "author": {
-    "name": "Maarten Baijs",
-    "email": "wieringen@gmail.com"
+    "name": "Steve Ferrero",
+    "email": "steve.fererro@web-atrio.com"
   },
   "licenses": [
     {
@@ -26,7 +25,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/wieringen/tinycolorpicker/issues"
+    "url": "https://github.com/steve-ferrero/tinycolorpicker/issues"
   },
   "devDependencies": {
     "baijs": "latest",
